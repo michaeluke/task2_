@@ -1,0 +1,222 @@
+.container-1 {
+  background-color: white;
+  padding-bottom: 100px;
+}
+.container-1 .row1 {
+  justify-content: space-between;
+  padding-inline: 100px;
+  padding-top: 56px;
+  padding-bottom: 70px;
+  width: 100%;
+}
+.container-1 .row1 .col-md-6.left {
+  align-self: center;
+  display: flex;
+}
+.container-1 .row1 .col-md-6.left.logos {
+  float: left;
+  width: 25%;
+}
+.container-1 .row1 .col-md-6.left .Boldo {
+  float: left;
+  font-size: 43.25px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  align-items: center;
+  color: #0A2640;
+  width: 25%;
+}
+.container-1 .row1 .col-md-6.right {
+  align-self: center;
+  background-color: white;
+}
+.container-1 .row1 .col-md-6.right .nav-link {
+  color: #0A2640;
+}
+.container-1 .row1 .col-md-6.right .nav-link.btn {
+  background: #FFFFFF;
+  border: 2px solid #0A2640;
+  border-radius: 24px;
+  padding: 8px 50px;
+  color: #0A2640;
+}
+.container-1 .row2 {
+  padding-top: 56px;
+}
+.container-1 .row2 .middle {
+  align-items: center;
+  text-align: center;
+}
+.container-1 .row2 .middle .about {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  color: #0A2640;
+}
+.container-1 .row2 .middle .main-title {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 84px;
+  color: #0A2640;
+}
+.container-1 .row3 {
+  padding-top: 67.5px;
+}
+.container-1 .row3 .m {
+  padding-left: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.container-1 .row3 .m .imp {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  color: black;
+}
+.container-1 .row3 .m .flex-1 {
+  display: flex;
+}
+.container-1 .row3 .m .flex-1 .category {
+  padding-right: 12px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 28px;
+  color: #0A2640;
+}
+.container-1 .row3 .m .flex-1 .date {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #777777;
+}
+.container-1 .row3 .m .flex-2 {
+  display: flex;
+}
+.container-1 .row3 .m .flex-2 .img {
+  padding-right: 12px;
+}
+.container-1 .row3 .m .flex-2 .bing {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.container-6 .row1 {
+  margin-top: 113px;
+}
+.container-6 .row1 .title {
+  padding-top: 72px;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+.container-6 .row2 {
+  padding-top: 50px;
+  padding-bottom: 72px;
+  margin-bottom: 84px;
+}
+.container-6 .row2 .btn2 {
+  background: #65E4A3;
+  border: 0px solid #65E4A3;
+  border-radius: 24px;
+  padding: 8px 50px;
+}
+.container-6 .row {
+  background-color: #0A2640;
+}
+
+.container-7 .inside-row {
+  padding-top: 100px;
+}
+.container-7 .inside-row .text-all {
+  padding-bottom: 50px;
+}
+.container-7 .inside-row .flex- {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.container-7 .inside-row .flex- .text-all {
+  margin-right: 5px;
+}
+.container-7 .inside-row .flex- .img {
+  background: #65E4A3;
+  border: 0px solid #65E4A3;
+  border-radius: 24px;
+  width: 44px;
+  height: 28px;
+  padding: auto auto;
+}
+.container-7 .inside-row .titles {
+  padding-bottom: 50px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 32px;
+  color: black;
+}
+.container-7 .inside-row .left {
+  display: flex;
+  align-items: end;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container-7 .inside-row .left .text {
+  padding-top: 50px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #777777;
+}
+.container-7 .inside-row .left .text-2 {
+  padding-top: 64px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #777777;
+}
+.container-7 .inside-row .left .first-flex {
+  display: flex;
+  align-items: end;
+}
+.container-7 .inside-row .left .first-flex .logos {
+  padding-right: 8px;
+}
+.container-7 .inside-row .left .first-flex .logos .logo1,
+.container-7 .inside-row .left .first-flex .logos .logo2 {
+  padding: 0px;
+}
+.container-7 .inside-row .left .boldo {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 43.25px;
+  line-height: 34px;
+  color: #0A2640;
+}/*# sourceMappingURL=style.css.map */
